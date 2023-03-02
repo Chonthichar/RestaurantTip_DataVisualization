@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0783f312-45d9-4630-9adc-78af9efdc0bc" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../.idea/python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../pythonDataScienceEssencial_book/.idea/pythonDataScienceEssencial_book.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Hw3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Hw3.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
@@ -98,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677757483183</updated>
-      <workItem from="1677757484434" duration="947000" />
+      <workItem from="1677757484434" duration="1256000" />
     </task>
     <servers />
   </component>
